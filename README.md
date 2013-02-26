@@ -1,0 +1,4 @@
+minesweeperkata
+===============
+
+manchester codejo
